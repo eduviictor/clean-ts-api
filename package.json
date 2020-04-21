@@ -6,5 +6,9 @@
   "license": "MIT",
   "dependencies": {
     "git-commit-msg-linter": "^2.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^13.13.1",
+    "typescript": "^3.8.3"
   }
 }
