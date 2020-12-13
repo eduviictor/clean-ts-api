@@ -5,10 +5,11 @@
   "author": "eduviictor <eduvictornobrega@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "git-commit-msg-linter": "^2.4.2",
+    "bcrypt": "^5.0.0",
     "validator": "^13.0.0"
   },
   "devDependencies": {
+    "@types/bcrypt": "^3.0.0",
     "@types/jest": "^25.2.1",
     "@types/node": "^13.13.1",
     "@types/validator": "^13.0.0",
@@ -19,6 +20,7 @@
     "eslint-plugin-node": "11",
     "eslint-plugin-promise": "4",
     "eslint-plugin-standard": "4",
+    "git-commit-msg-linter": "^2.4.2",
     "husky": "^4.2.5",
     "jest": "^25.4.0",
     "lint-staged": "^10.1.7",
